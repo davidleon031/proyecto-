@@ -18,7 +18,7 @@ import javafx.stage.Stage;
 /**
  * FXML Controller class
  *
- * @author epin
+ * 
  */
 public class FrmMenuController implements Initializable {
 
