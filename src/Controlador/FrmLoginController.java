@@ -24,7 +24,7 @@ import javafx.stage.Stage;
 /**
  * FXML Controller class
  *
- * @author gvalarezo
+ * 
  */
 public class FrmLoginController implements Initializable {
     @FXML
