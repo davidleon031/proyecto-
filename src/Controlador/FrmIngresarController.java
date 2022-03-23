@@ -16,7 +16,7 @@ import modelo.Conexion;
 /**
  * FXML Controller class
  *
- * @author gvalarezo
+ * 
  */
 public class FrmIngresarController implements Initializable {
     @FXML
