@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author gvalarezo
+ * 
  */
 public class Conexion {
     private Connection conexion;
