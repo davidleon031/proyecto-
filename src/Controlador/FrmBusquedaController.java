@@ -22,7 +22,6 @@ import javafx.scene.layout.GridPane;
 /**
  * FXML Controller class
  *
- * @author gvalarezo
  */
 public class FrmBusquedaController implements Initializable {
     @FXML  
